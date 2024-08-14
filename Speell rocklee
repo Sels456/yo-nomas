@@ -74,9 +74,9 @@ local Attack = macro(400, "Thaijutsu", function()
     end
 end)
 
-local Destruc = macro(600, "Dam Pow", function()
+local Destruc = macro(600, "Kunai", function()
     if g_game.isAttacking() then
-        say("damage power")
+        say("throw kunai")
     end
 end)
 
