@@ -64,7 +64,7 @@ end)
 
 local Div = macro(3100, "Shuriken", function()
     if g_game.isAttacking() then
-        say("thrown shuriken")
+        say("throw shuriken")
     end
 end)
 		
