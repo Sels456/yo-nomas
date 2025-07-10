@@ -1,7 +1,7 @@
 -- xOxMacrosxOx De xED, Protege tus xmacros si el name de el player no esta en la lista no podra usar los xscripts.
 
 local allowedNames = {
-  "Charlix",     -- Charlix
+  "Xxlucasxx",     -- Charlix
   "[Dnt] Charlix",  -- Charlix
   "Undersky",
   "Neo Jinix",  -- tostichos
